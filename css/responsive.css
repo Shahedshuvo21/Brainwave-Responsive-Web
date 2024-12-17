@@ -1,0 +1,1409 @@
+/* 
+  ##Device = Most of the fold Smartphones Mobiles (Portrait)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+    /* CSS start here */
+
+
+
+    /* CSS end here */
+    
+  }
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 481px) {
+  
+    /* CSS start here */
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 1px #473BF0 ;
+    }
+
+    .header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 20px;
+
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link{
+        margin: 0px;
+        font-size: 14px;
+        margin-bottom: 0px;
+        
+    }
+
+    .header .navbar-nav .nav-item .btn-nav {
+        padding: 10px 20px;
+        margin-left: 0px;
+        margin-top: 5px;
+        background-color: #473BF0;
+        color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+    }
+
+    .banner {
+        width: 100%;
+        padding-top: 35px;
+    }
+
+    .banner .banner-inner h1 {
+        font-size: 26px;
+        margin-top: 0px;
+    }
+
+    .banner .banner-inner p {
+        width: 98%;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #595E69;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .banner .banner-inner .btn-main{
+
+        padding: 10px 22px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .banner .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    
+    }
+
+    
+    .alert-section P {
+        font-size: 12px;
+        font-weight: 300;
+        margin: auto;
+    }
+
+    .banner .banner-inner .link {
+        font-size: 11px;
+        
+    }
+
+    .expert-section {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .expert-section .expert-inner h2 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+
+    .expert-section .expert-inner p {
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        padding: 05px 0px;
+        width: auto;
+    }
+    .expert-section .expert-inner .btn-main{
+        font-size: 14px;
+    }
+    .expert-section img {
+        margin-left: 0;
+    }
+
+    .img-fluid {
+        max-width: 100%; 
+        height: auto;
+        margin: 20px 0px;
+    }
+    .expert-section .inner {
+        margin-left: 0;
+    }
+
+    .expert-section .inner h2 {
+        padding-top: 10px;
+        font-size: 25px;
+        font-weight: bold;
+        line-height: 1em;
+    }
+
+    .expert-section .inner p {
+        font-size: 17px;
+        
+    }
+
+    .service {
+        padding: 30px 0px;
+        
+    }
+
+    .service .title h1 {
+        font-size: 24px;
+        margin-bottom: 15px;
+        
+    }
+
+    .service .title p {
+        width: 100%;
+        font-size: 17px;
+    }
+
+    .service .main {
+        width: 100%;
+        padding-top: 40px;
+        padding-left: 0px; 
+        padding-right: 0px;
+    }
+    .service img {
+        width: 100%;
+    }
+
+
+    .reason {
+        padding-top: 30px;
+    } 
+
+    .reason img {
+        width: 100%;
+    }
+
+    .reason h2 {
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 1.4em;
+        color: #161C2D;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .reason p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .reason h6 {
+        font-size: 16px;
+        
+    }
+    .video {
+        width: auto;
+        padding: 60px 0px;
+        margin-top: 10px;
+    }
+    .video h2 {
+        font-size: 26px;
+        
+    }
+
+    .video p {
+        font-size: 17px;
+        width: 100%;
+    }
+    .people {
+        width: 100%;
+        padding: 30px 0px;
+    }
+
+    .people .title h1 {
+        font-size: 27px;
+        line-height: 1.4em;
+    }
+
+    .people .title p {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+    .client-box {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 2px solid #E7E9ED;
+        border-radius: 10px;
+        margin-left: 0px;
+        transition: 0.5s ease-in;
+        margin-bottom: 20px;
+    }
+
+    .client-box img {
+        width: 58px;
+        height: 58px;
+        margin-bottom: 30px;
+    }
+
+    .client-box P {
+        font-size: 18px;
+        font-weight: 300;
+        color: #161C2D;
+        line-height: 1.7em;
+        margin-bottom: 16px;
+    }
+
+    .client-box h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .client-box h6 span{
+        font-size: 14px;
+    }
+
+    .cta-section h2 {
+        font-size: 27px;
+        font-weight: 650;
+        color: #fff;
+        text-align: center;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .cta-section {
+        display: flex;
+        justify-content: center; /* Horizontally center the button */
+        align-items: center; /* Vertically center the button */
+        height: 100%; /* Adjust based on your section's height requirement */
+        text-align: center; /* Ensure text alignment */
+    }
+
+    .cta-section .btn-intro {
+        padding: 10px 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        color: #161C2D;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+        margin: 0px;
+    }
+
+
+
+    .footer {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        background: #161C2D;
+        margin: auto;
+    }
+
+    .footer .img-fluid {
+        margin: 15px 0px;
+       
+    }
+
+    .footer .inner-left p {
+        color: #797C86;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 1.7em;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+    .footer .inner-right p {
+        font-size: 13px;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    .footer .inner-right ul li {
+        padding: 0px 0px 10px;
+        line-height: 1.3em;
+        
+    }
+
+    .footer .inner-right ul li a {
+        
+        font-size: 13px;
+        padding: 0;
+    }
+
+        
+    }
+
+
+    /* CSS end here */
+    
+
+
+
+
+
+  /* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    /* CSS start here */
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 1px #473BF0 ;
+    }
+
+    .header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 20px;
+
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link{
+        margin: 0px;
+        font-size: 14px;
+        margin-bottom: 0px;
+        
+    }
+
+    .header .navbar-nav .nav-item .btn-nav {
+        padding: 10px 20px;
+        margin-left: 0px;
+        margin-top: 5px;
+        background-color: #473BF0;
+        color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+    }
+
+    .banner {
+        width: 100%;
+        padding-top: 35px;
+    }
+
+    .banner .banner-inner h1 {
+        width: 84%;
+        font-size: 32px;
+        margin-top: 0px;
+    }
+
+    .banner .banner-inner p {
+        width: 98%;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #595E69;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .banner .banner-inner .btn-main{
+
+        padding: 10px 22px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .banner .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    
+    }
+
+    
+    .alert-section P {
+        font-size: 19px;
+        font-weight: 300;
+        margin: auto;
+    }
+
+    .banner .banner-inner .link {
+        font-size: 11px;
+        
+    }
+
+    .expert-section {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .expert-section .expert-inner h2 {
+        margin-top: 30px;
+        font-size: 32px;
+    }
+
+    .expert-section .expert-inner p {
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        padding: 05px 0px;
+        width: auto;
+    }
+    .expert-section .expert-inner .btn-main{
+        font-size: 14px;
+    }
+    .expert-section img {
+        margin-left: 0;
+    }
+
+    .img-fluid {
+        max-width: 100%; 
+        height: auto;
+        margin: 20px 0px;
+    }
+    .expert-section .inner {
+        margin-left: 0;
+    }
+
+    .expert-section .inner h2 {
+        padding-top: 10px;
+        font-size: 32px;
+        font-weight: bold;
+        line-height: 1em;
+    }
+
+    .expert-section .inner p {
+        font-size: 17px;
+        
+    }
+
+    .service {
+        padding-bottom: 30px;
+        margin-top: 35px;
+        
+    }
+
+    .service .title h1 {
+        font-size: 32px;
+        margin-bottom: 15px;
+        
+    }
+
+    .service .title p {
+        width: 100%;
+        font-size: 17px;
+    }
+
+    .service .main {
+        width: 100%;
+        padding-top: 40px;
+        padding-left: 0px; 
+        padding-right: 0px;
+    }
+    .service img {
+        width: 100%;
+    }
+
+
+    .reason {
+        padding-top: 30px;
+    } 
+
+    .reason img {
+        width: 100%;
+    }
+
+    .reason h2 {
+        font-size: 32px;
+        font-weight: bold;
+        line-height: 1.4em;
+        color: #161C2D;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .reason p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .reason h6 {
+        font-size: 16px;
+        
+    }
+    .video {
+        width: auto;
+        padding: 60px 0px;
+        margin-top: 20px;
+    }
+    .video h2 {
+        font-size: 26px;
+        
+    }
+
+    .video p {
+        font-size: 17px;
+        width: 100%;
+    }
+    .people {
+        width: 100%;
+        padding: 30px 0px;
+    }
+
+    .people .title h1 {
+        font-size: 32px;
+        line-height: 1.4em;
+    }
+
+    .people .title p {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+    .client-box {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 2px solid #E7E9ED;
+        border-radius: 10px;
+        margin-left: 0px;
+        transition: 0.5s ease-in;
+        margin-bottom: 20px;
+    }
+
+    .client-box img {
+        width: 58px;
+        height: 58px;
+        margin-bottom: 30px;
+    }
+
+    .client-box P {
+        font-size: 18px;
+        font-weight: 300;
+        color: #161C2D;
+        line-height: 1.7em;
+        margin-bottom: 16px;
+    }
+
+    .client-box h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .client-box h6 span{
+        font-size: 14px;
+    }
+
+    .cta-section h2 {
+        font-size: 27px;
+        font-weight: 650;
+        color: #fff;
+        text-align: center;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .cta-section {
+        display: flex;
+        justify-content: center; /* Horizontally center the button */
+        align-items: center; /* Vertically center the button */
+        height: 100%; /* Adjust based on your section's height requirement */
+        text-align: center; /* Ensure text alignment */
+    }
+
+    .cta-section .btn-intro {
+        padding: 10px 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        color: #161C2D;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+        margin: 0px;
+    }
+
+
+
+    .footer {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        background: #161C2D;
+        margin: auto;
+    }
+
+    .footer .img-fluid {
+        margin: 15px 0px;
+       
+    }
+
+    .footer .inner-left p {
+        color: #797C86;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 1.7em;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+    .footer .inner-right p {
+        font-size: 13px;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    .footer .inner-right ul li {
+        padding: 0px 0px 10px;
+        line-height: 1.3em;
+        
+    }
+
+    .footer .inner-right ul li a {
+        
+        font-size: 13px;
+        padding: 0;
+    }
+
+        
+    }
+
+
+
+    /* CSS end here */
+    
+  
+
+
+
+  /* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 767px) and (max-width: 1024px) and (orientation: landscape) {
+  
+    /* CSS start here */
+
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 1px #473BF0 ;
+    }
+
+    .header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 20px;
+
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link{
+        margin: 0px;
+        font-size: 14px;
+        margin-bottom: 0px;
+        
+    }
+
+    .header .navbar-nav .nav-item .btn-nav {
+        padding: 10px 20px;
+        margin-left: 0px;
+        margin-top: 5px;
+        background-color: #473BF0;
+        color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+    }
+
+    .banner {
+        width: 100%;
+        padding-top: 35px;
+    }
+
+    .banner .banner-inner h1 {
+        width: 84%;
+        font-size: 36px;
+        margin-top: 0px;
+    }
+
+    .banner .banner-inner p {
+        width: 98%;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #595E69;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .banner .banner-inner .btn-main{
+
+        padding: 10px 22px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .banner .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 15%;
+    
+    }
+
+    
+    .alert-section P {
+        font-size: 19px;
+        font-weight: 300;
+        margin: auto;
+    }
+
+    .banner .banner-inner .link {
+        font-size: 11px;
+        
+    }
+
+    .expert-section {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .expert-section .expert-inner h2 {
+        margin-top: 30px;
+        font-size: 36px;
+    }
+
+    .expert-section .expert-inner p {
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        padding: 05px 0px;
+        width: auto;
+    }
+    .expert-section .expert-inner .btn-main{
+        font-size: 14px;
+    }
+    .expert-section img {
+        margin-left: 0;
+    }
+
+    .img-fluid {
+        max-width: 100%; 
+        height: auto;
+        margin: 20px 0px;
+    }
+    .expert-section .inner {
+        margin-left: 0;
+    }
+
+    .expert-section .inner h2 {
+        padding-top: 10px;
+        font-size: 32px;
+        font-weight: bold;
+        line-height: 1em;
+    }
+
+    .expert-section .inner p {
+        font-size: 17px;
+        
+    }
+
+    .service {
+        padding-bottom: 30px;
+        margin-top: 35px;
+        
+    }
+
+    .service .title h1 {
+        font-size: 36px;
+        margin-bottom: 15px;
+        
+    }
+
+    .service .title p {
+        width: 100%;
+        font-size: 17px;
+    }
+
+    .service .main {
+        width: 100%;
+        padding-top: 40px;
+        padding-left: 0px; 
+        padding-right: 0px;
+    }
+    .service img {
+        width: 100%;
+    }
+
+
+    .reason {
+        padding-top: 30px;
+    } 
+
+    .reason img {
+        width: 100%;
+    }
+
+    .reason h2 {
+        font-size: 36px;
+        font-weight: bold;
+        line-height: 1.4em;
+        color: #161C2D;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .reason p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .reason h6 {
+        font-size: 16px;
+        
+    }
+    .video {
+        width: auto;
+        padding: 60px 0px;
+        margin-top: 20px;
+    }
+    .video h2 {
+        font-size: 30px;
+        
+    }
+
+    .video p {
+        font-size: 17px;
+        width: 100%;
+    }
+    .people {
+        width: 100%;
+        padding: 30px 0px;
+    }
+
+    .people .title h1 {
+        font-size: 32px;
+        line-height: 1.4em;
+    }
+
+    .people .title p {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+    .client-box {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 2px solid #E7E9ED;
+        border-radius: 10px;
+        margin-left: 0px;
+        transition: 0.5s ease-in;
+        margin-bottom: 20px;
+    }
+
+    .client-box img {
+        width: 58px;
+        height: 58px;
+        margin-bottom: 30px;
+    }
+
+    .client-box P {
+        font-size: 20px;
+        font-weight: 300;
+        color: #161C2D;
+        line-height: 1.7em;
+        margin-bottom: 16px;
+    }
+
+    .client-box h6 {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .client-box h6 span{
+        font-size: 17px;
+    }
+
+    .cta-section .col-md-6 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .cta-section h2 {
+        font-size: 27px;
+        font-weight: 650;
+        color: #fff;
+        text-align: center;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .cta-section {
+        display: flex;
+        justify-content: center; /* Horizontally center the button */
+        align-items: center; /* Vertically center the button */
+        height: 100%; /* Adjust based on your section's height requirement */
+        text-align: center; /* Ensure text alignment */
+    }
+
+    .cta-section .btn-intro {
+        padding: 10px 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        color: #161C2D;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+        margin: 0px;
+    }
+
+
+
+    .footer {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        background: #161C2D;
+        margin: auto;
+    }
+
+    .footer .img-fluid {
+        margin: 15px 0px;
+       
+    }
+
+    .footer .inner-left p {
+        color: #797C86;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 1.7em;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+    .footer .inner-right p {
+        font-size: 13px;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    .footer .inner-right ul li {
+        padding: 0px 0px 10px;
+        line-height: 1.3em;
+        
+    }
+
+    .footer .inner-right ul li a {
+        
+        font-size: 13px;
+        padding: 0;
+    }
+
+        
+    }
+
+
+
+    /* CSS end here */
+    
+
+
+  
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  
+    /* CSS start here */
+
+    .banner .img-fluid {
+        max-width: 80%;
+        height: auto;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 15%;
+    }
+
+    .banner .banner-inner h1 {
+        width: 84%;
+        font-size: 36px;
+        margin-top: 60px;
+    }
+
+    .alert-section {
+        width: 100%;
+        text-align: center;
+        padding: 30px 0px;
+        background: #161C2D;
+        color: #fff;
+        margin: 0px;
+        margin-bottom: 50px;
+    }
+
+
+    .expert-section .inner h2 {
+        
+        margin-left: 15px;
+    }
+
+    .expert-section .inner p {
+        
+        margin-left: 15px;
+    }
+
+    .service .title p {
+        width: 60%;
+        font-size: 17px;
+    }
+    .reason h2 {
+        font-size: 36px;
+        font-weight: bold;
+        line-height: 1.4em;
+        color: #161C2D;
+        width: 100%;
+        margin-top: 87px;
+        margin-bottom: 20px;
+    }
+
+    .video {
+        width: auto;
+        padding: 60px 0px;
+        margin-top: 0px;
+    }
+    .video p {
+        font-size: 17px;
+        width: 60%;
+    }
+
+
+    .people .title p {
+        width: 60%;
+        font-size: 17px;
+        margin-bottom: 40px;
+    }
+
+    .client-box P {
+        font-size: 18px;
+        font-weight: 300;
+        color: #161C2D;
+        line-height: 1.7em;
+        margin-bottom: 16px;
+    }
+
+    .client-box h6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .client-box h6 span {
+        font-size: 14px;
+    }
+
+    /* CSS end here */
+    
+  }
+
+
+  /* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+  
+    /* CSS start here */
+    .banner .banner-inner h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 1.3em;
+        color: #161C2D;
+        margin-top: 40px;
+    }
+
+    .banner .img-fluid {
+        max-width: 85%;
+        height: auto;
+    }
+
+    .expert-section .expert-inner h2 {
+        margin-top: 0px;
+        font-size: 30px;
+        line-height: 1.4em;
+        font-weight: bold;
+        color: #161C2D;
+    }
+    .expert-section .expert-inner p {
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        padding: 15px 0px;
+        width: 100%;
+    }
+
+    .expert-section .img-fluid {
+        max-width: 125%;
+        height: auto;
+    }
+
+    .expert-section .inner h2 {
+        padding-top: 0px;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 1em;
+        /* margin-right: 96px; */
+        margin-left: 0px;
+    }
+
+    .expert-section .inner p {
+        width: 128%;
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        margin-bottom: 22px;
+    }
+
+    .expert-section .expert-inner .btn-main {
+        padding: 10px 20px;
+        background-color: #473BF0;
+        color: #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: 1s ease-in-out;
+    }
+
+    .service img {
+        width: 103%;
+    }
+    .service .title p {
+        width: 60%;
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        margin: auto;
+    }
+
+    .service .main p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #595E69;
+        padding-top: 20px;
+        padding-bottom: 5px;
+        width: 120%;
+    }
+
+    .reason {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+
+    .reason h2 {
+        font-size: 33px;
+        font-weight: bold;
+        line-height: 1.4em;
+        color: #161C2D;
+        width: 99%;
+    }
+
+    .reason p {
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 1.7em;
+        width: 98%;
+        margin-bottom: 20px;
+    }
+
+    .reason h6 {
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 2.5em;
+    }
+
+    .video {
+        width: 100%;
+        text-align: center;
+        padding: 100px 0px;
+        background: url("../images/Video.png") center top no-repeat;
+        background-size: cover;
+        margin-top: 0px;
+    }
+
+    .video p {
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 300;
+        color: #fff;
+        margin: auto;
+        width: 50%;
+    }
+
+    .reason h2 {
+	font-size: 33px;
+	font-weight: bold;
+	line-height: 1.4em;
+	color: #161C2D;
+	width: 99%;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.people .title p {
+	width: 60%;
+	font-size: 19px;
+	line-height: 1.7em;
+	font-weight: 400;
+	color: #595E69;
+	margin: auto;
+	margin-bottom: 60px;
+}
+
+
+.client-box {
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 2px solid #E7E9ED;
+	border-radius: 10px;
+	margin-left: 05px;
+	transition: 0.5s ease-in;
+}
+
+.client-box P {
+	font-size: 18px;
+	font-weight: 300;
+	color: #161C2D;
+	line-height: 1.7em;
+	margin-bottom: 30px;
+}
+
+.client-box h6 {
+	font-size: 15px;
+	font-weight: bold;
+}
+.client-box h6 span {
+	font-size: 15px;
+	font-weight: 400;
+	padding-left: 10px;
+	color: #5C616C;
+}
+    
+
+
+    /* CSS end here */
+    
+  }
+
+
+  
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1280px) {
+  
+    /* CSS start here */
+
+    .expert-section .expert-inner h2 {
+        margin-top: 0px;
+        font-size: 32px;
+        line-height: 1.4em;
+        font-weight: bold;
+        color: #161C2D;
+    }
+
+    .expert-section .expert-inner p {
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        padding: 15px 0px;
+        width: 100%;
+    }
+
+    
+
+    .expert-section .inner p {
+        width: 150%;
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #595E69;
+        margin-bottom: 22px;
+    }
+
+    .service .main p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #595E69;
+        padding-top: 20px;
+        padding-bottom: 5px;
+        width: 120%;
+    }
+
+    .reason {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    .video {
+        width: 100%;
+        text-align: center;
+        padding: 120px 0px;
+        background: url("../images/Video.png") center top no-repeat;
+        background-size: cover;
+    }
+
+    .client-box P {
+        font-size: 19px;
+        font-weight: 300;
+        color: #161C2D;
+        line-height: 1.7em;
+        margin-bottom: 30px;
+    }
+
+    .client-box h6 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .client-box h6 span {
+        font-size: 16px;
+        font-weight: 400;
+        padding-left: 10px;
+        color: #5C616C;
+    }
+
+
+    /* CSS end here */
+    
+    
+  }
